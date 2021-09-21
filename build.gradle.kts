@@ -16,6 +16,7 @@ repositories {
 dependencies {
     implementation(Libs.KOTLIN_STDLIB)
     implementation(Libs.KOTLIN_COROUTINES)
+    implementation(Libs.XML_PULL_PARSER)
     testImplementation(kotlin("test"))
 }
 

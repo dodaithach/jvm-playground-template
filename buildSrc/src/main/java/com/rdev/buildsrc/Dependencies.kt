@@ -18,6 +18,7 @@ object Libs {
     const val JODA_TIME = "net.danlew:android.joda:${Versions.JODA_TIME}"
     const val DAGGER = "com.google.dagger:dagger:${Versions.DAGGER}"
     const val DAGGER_COMPILER = "com.google.dagger:dagger-compiler:${Versions.DAGGER}"
+    const val XML_PULL_PARSER = "xmlpull:xmlpull:1.1.3.1"
 
     const val JUNIT = "junit:junit:${Versions.JUNIT}"
 }
